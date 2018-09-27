@@ -1,9 +1,9 @@
 def create_an_empty_array
-  
+  empty_array = Array.new
 end
 
 def create_an_array
-  
+  short_dog_squad = ["Pembroke Welsh Corgi", "English Bulldog", "Basset Hound", "Pekingese"]
 end
 
 def add_element_to_end_of_array(array, element)
